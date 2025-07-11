@@ -1,0 +1,9 @@
+chat-app/
+├── public/
+│   └── index.html
+├── src/
+│   ├── App.js
+│   ├── ChatBox.js
+│   ├── index.js
+│   └── style.css
+└── package.json
